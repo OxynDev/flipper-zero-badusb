@@ -2,5 +2,5 @@
 
 ## Android
 ### app_spammer.txt
-Spam attact that crash android
+Spam attack that crash android
 (Bluetooth)
